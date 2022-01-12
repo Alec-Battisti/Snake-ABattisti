@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+# Alec Battisti
+# CPSC 386-01
+# alec.battisti@csu.fullerton.edu
+# @Alec-Battisti
+#
+# This is a snake clone
+#
 import pygame
 from gameBoard import Board
 from directionObject import Direction
